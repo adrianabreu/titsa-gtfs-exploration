@@ -1,0 +1,13 @@
+version: "3.8"
+services:
+  app:
+    image: jupyter/pyspark-notebook:spark-3.2.1 
+    stdin_open: true # docker run -i
+    tty: true        # docker run -t
+    volumes: 
+        - .:/home/jovyan/work
+    ports:
+      - "8888:8888"
+      - "4040:4040"
+      - "4041:4041"
+    command: "start-notebook.sh --NotebookApp.password='sha1:7cca89c48283:e3c1f9fbc06d1d2aa59555dfd5beed925e30dd2c'"

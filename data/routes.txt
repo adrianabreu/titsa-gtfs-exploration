@@ -1,0 +1,163 @@
+﻿route_id,agency_id,route_short_name,route_long_name,route_type,route_color,route_url
+13,2,11,LA LAGUNA -> EL SAUZAL- POR C/EL CALVARIO DE TACORONTE,3,676767,http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-011
+14,2,12,LA LAGUNA -> EL SAUZAL - POR ZONA CENTRO DE TACORONTE,3,676767,http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-012
+15,2,14,SANTA CRUZ -> LA LAGUNA(POR LA CUESTA),3,676767,http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-014
+16,2,15,SANTA CRUZ - LA LAGUNA(Express),3,676767,http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-015
+17,2,18,LA LAGUNA -> AÑAZA -  POR CENTROS COMERCIALES,3,676767,http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-018
+231,2,20,SANTA CRUZ - AEROPUERTO NORTE,3,FF8000,http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-020
+18,2,21,TACORONTE ->STA. CATALINA-> PLAYA MESA DEL MAR,3,676767,http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-021
+19,2,23,TACORONTE -> EL PRIS - POR EL CALVARIO Y GUAYONJE,3,676767,http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-023
+104,2,26,SANTA CRUZ-> LA LAGUNA (POR BARRIO LA SALUD Y FINCA ESPAÑA),3,676767,http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-026
+232,2,30,PUERTO DE LA CRUZ - AEROPUERTO NORTE,3,008000,http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-030
+181,2,32,FASNIA->PUNTA PRIETA -> LA SOMBRERA,3,000000,http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-032
+109,2,33,GÜIMAR -> FASNIA-> LA SOMBRERA,3,676767,http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-033
+158,2,34,EL TABLADO -> GRANADILLA DE ABONA POR FASNIA Y ARICO,3,676767,http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-034
+20,2,35,GÜIMAR -> GRANADILLA DE ABONA  POR FASNIA Y ARICO,3,676767,http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-035
+159,2,36,GÜIMAR -> GRANADILLA DE ABONA POR TF1 Y LOS ROQUES,3,676767,http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-036
+162,2,39,GÜIMAR -> GRANADILLA DE ABONA POR TF1 Y EL TABLADO,3,676767,http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-039
+21,2,50,LA LAGUNA -> TEGUESTE -BAJAMAR- PUNTA DEL HIDALGO,3,676767,http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-050
+22,2,51,< > 57  CIRCULAR LA LAGUNA -> TEJINA - TACORONTE- LA LAGUNA,3,676767,http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-051
+23,2,52,LA LAGUNA -> LAS TOSCAS->POR EL SOCORRO,3,676767,http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-052
+24,2,54,LA LAGUNA -> RAVELO ->POR AGUA GARCÍA,3,676767,http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-054
+25,2,55,LA LAGUNA -> BCO.GRANDE- POR GENETO,3,676767,http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-055
+26,2,56,LA LAGUNA -> BCO.GRANDE->POR LLANO DEL MORO,3,676767,http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-056
+30,2,57,< > 51  CIRCULAR LA LAGUNA -> TEJINA - TACORONTE- LA LAGUNA,3,676767,http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-057
+137,2,76,LA LAGUNA -> CARBONERAS -> AFUR,3,676767,http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-076
+138,2,77,LA LAGUNA -> EL BAILADERO -> POR LAS MERCEDES,3,676767,http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-077
+28,2,101,LA LAGUNA -> LA OROTAVA(POR CTRA.GENENERAL),3,676767,http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-101
+55,2,102,SANTA CRUZ -> PUERTO DE LA CRUZ(POR LAS ARENAS),3,676767,http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-102
+29,2,103,SANTA CRUZ -> PUERTO DE LA CRUZ(POR EL BOTÁNICO),3,676767,http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-103
+156,2,104,SANTA CRUZ -> PUERTO DE LA CRUZ (POR TACORONTE),3,676767,http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-104
+33,2,105,SANTA CRUZ -> PUNTA DEL HIDALGO-POR LA LAGUNA,3,676767,http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-105
+122,2,106,SANTA CRUZ -> ICOD DE LOS VINOS(express),3,676767,http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-106
+57,2,108,SANTA CRUZ - OROTAVA - REALEJOS,3,676767,http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-108
+34,2,110,SANTA CRUZ ->LOS CRISTIANOS-COSTA ADEJE(express),3,B02C31,http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-110
+100,2,111,SANTA CRUZ->AEROPUERTO SUR-LOS CRISTIANOS-COSTA ADEJE,3,00FF00,http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-111
+38,2,120,SANTA CRUZ -> GÜIMAR-POR CANDELARIA Y EL PUERTITO DE GÜIMAR,3,676767,http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-120
+39,2,121,GÜIMAR->ARAFO->POLÍGONO DE GÜIMAR->CANDELARIA,3,676767,http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-121
+40,2,122,SANTA CRUZ ->LAS CALETILLAS-> CANDELARIA Y POLÍGONO I.DE GÜIMAR,3,676767,http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-122
+111,2,126,CANDELARIA - GUAJARA(UNIVERSIDAD) - H.U. LA CANDELARIA - INTERCAMBIADOR SC,3,676767,http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-126
+110,2,127,GÜIMAR -> CANDELARIA -> BCO.HONDO -> IGUESTE -> ARAYA -> GÜIMAR,3,676767,http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-127
+242,2,128,SANTA CRUZ-LA HIDALGA-ARAFO-GUIMAR,3,676767,http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-128
+45,2,138,SANTA CRUZ -> TABAIBA BAJA->POR RADAZUL,3,676767,http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-138
+1,2,139,SANTA CRUZ -> TABAIBA BAJA->POR RADAZUL,3,676767,http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-139
+4,2,142,SANTA CRUZ -> URB. AÑAZA-> URB. ACORÁN-> BARRANCO HONDO,3,676767,http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-142
+139,2,201,INTERCAMBIADOR -> LA VERDELLADA -> INTERCAMBIADOR,3,9C4392,http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-201
+140,2,203,INT. -> S. LÁZARO-> TORNERO-> GAVIAS-> SAN BENITO-> TRINIDAD-> INT.,3,9C4392,http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-203
+141,2,204,INT.-P. DEL CRISTO-EL BRONCO-LOMO LARGO-EL RAYO-URB.AGUERE-TRINIDAD-INT.,3,9C4392,http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-204
+142,2,206,INT.- LA VERDELLADA- PLAZA DEL CRISTO- RANCHO GRANDE- SAN BENITO- INT.,3,676767,http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-206
+135,2,217,INTERCAMBIADOR-> LOS ANDENES-EL CARDONAL- H.U.C,3,9C4392,http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-217
+134,2,219,INTERCAMBIADOR-> EL CARDONAL->TACO->SAN MATIAS,3,9C4392,http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-219
+136,2,224,INTERCAMBIADOR-V.GUERRA-TEJINA POR EL BOQUERON-PTA. DEL HIDALGO,3,9C4392,http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-224
+46,2,228,SANTA CRUZ -> LOS CAMPITOS-POR LA CUESTA,3,9C4392,http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-228
+118,2,231,INTERCAMBIADOR-LA GALLEGA (DIRECTO),3,9C4392,http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-231
+47,2,232,SANTA CRUZ -> EL CARDONAL-LA GALLEGA,3,9C4392,http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-232
+48,2,233,SANTA CRUZ -> EL CARDONAL ->FINCA ESPAÑA,3,9C4392,http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-233
+52,2,238,SANTA CRUZ -> SAN MATIAS - POR CHAMBERÍ,3,9C4392,http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-238
+132,2,253,INTERCAMBIADOR -> GUAMASA -> GARIMBA,3,9C4392,http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-253
+133,2,260,INTERCAMBIADOR ->LOS BALDÍOS-> EL CENTENERO-> LLANO DEL MORO,3,9C4392,http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-260
+144,2,270,INTERCAMBIADOR - LAS MERCEDES (POR LAS CANTERAS),3,9C4392,http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-270
+130,2,271,INTERCAMBIADOR -> EL CAMINO-> CRUZ DE ÁLAMOS-> LAS MERCEDES,3,9C4392,http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-271
+131,2,273,INTERCAMBIADOR -> CRUZ DEL CARMEN ->POR LAS MERCEDES,3,9C4392,http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-273
+129,2,274,INTERCAMBIADOR -> EL BATÁN ->POR LAS MERCEDES,3,9C4392,http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-274
+143,2,275,INTERCAMBIADOR -  LAS CARBONERAS - TABORNO,3,9C4392,http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-275
+60,2,325,PUERTO DE LA CRUZ -> A. LOS GIGANTES- POR ICOD DE LOS VINOS,3,69BFAE,http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-325
+116,2,330,(CIRCUNVALACIÓN)LOS REALEJOS – SAN VICENTE – LAS LLANADAS,3,676767,http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-330
+101,2,342,COSTA ADEJE ->CAÑADAS DEL TEIDE-> EL PORTILLO,3,0000FF,http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-342
+62,2,343,PTO. CRUZ <->LOS CRISTIANOS(Por Aeropuertos Norte y Sur)(express),3,FF0080,http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-343
+63,2,345,PTO. DE LA  CRUZ -> OROTAVA-AGUAMANSA,3,676767,http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-345
+235,2,346,ESTACIÓN LA OROTAVA - AGUAMANSA,3,FF0000,http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-346
+64,2,347,LA OROTAVA -> REALEJO ALTO - POR BENIJOS Y PALO BLANCO,3,676767,http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-347
+65,2,348,PTO. CRUZ<->EL PORTILLO<->CAÑADAS DEL TEIDE,3,676767,http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-348
+67,2,352,CIRCUNVALACIÓN OROTAVA -> REALEJOS,3,676767,http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-352
+68,2,353,CIRCUNVALACIÓN CIRCUNVALACIÓN REALEJOS -> OROTAVA,3,676767,http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-353
+69,2,354,REALEJOS -> ICOD DE LOS VINOS ->POR LA GUANCHA,3,676767,http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-354
+70,2,355,BUENAVISTA -> MASCA -> VALLE SANTIAGO,3,676767,http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-355
+128,2,357,ESTACIÓN DE ICOD->AVDA.PRÍNCIPES DE ESPAÑA->HOSPITAL DEL NORTE,3,676767,http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-357
+71,2,358,ICOD DE LOS VINOS -> SANTA BÁRBARA,3,676767,http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-358
+72,2,360,ICOD DE LOS VINOS -> PUERTO DE ERJOS,3,676767,http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-360
+73,2,362,ICOD DE LOS VINOS -> PLAYA SAN MARCOS,3,676767,http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-362
+74,2,363,PUERTO DE LA CRUZ -> BUENAVISTA ->POR ICOD DE LOS VINOS,3,676767,http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-363
+75,2,364,ICOD ->HOSPITAL DEL NORTE->LA GUANCHA -> S. JUAN DE LA RAMBLA ->POR SAN JOSÉ,3,676767,http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-364
+160,2,365,BUENAVISTA -> MASCA,3,676767,http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-365
+76,2,366,BUENAVISTA <->EL PALMAR<-> LAS PORTELAS,3,676767,http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-366
+226,2,369,BUENAVISTA - PUNTA DE TENO,3,0000FF,http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-369
+112,2,372,LAS DEHESAS->URB.MAYORAZGO->SAN ANTONIO->LA PIEDAD,3,676767,http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-372
+105,2,373,LAS DEHESAS-LA FLORIDA-CAMINO POLO- LA PIEDAD-LAS DEHESAS,3,676767,http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-373
+106,2,376,LAS DEHESAS-PLAYA DE EL RINCÓN-LAS DEHESAS,3,676767,http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-376
+6,2,380,LA CORUJERA -> TIGAIGA - POR LA OROTAVA,3,676767,http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-380
+107,2,381,PLAZA REYES CATÓLICOS- PUNTA BRAVA(LORO PARQUE)-LA LONGUERA,3,676767,http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-381
+108,2,382,PLAZA REYES CATÓLICOS- Bº SAN ANTONIO-POR PLAZA DEL CHARCO Y MERCADO,3,676767,http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-382
+77,2,390,PUERTO DE LA CRUZ -> REALEJO ALTO - POR LA MONTAÑA,3,676767,http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-390
+54,2,392,ICOD DE LOS VINOS -> PUERTO DE ERJOS - POR EL TANQUE,3,676767,http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-392
+163,2,408,GRANADILLA -> SAN ISIDRO -> EL MÉDANO,3,676767,http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-408
+164,2,409,SAN MIGUEL -> GRANADILLA ->SAN ISIDRO -> EL MÉDANO,3,676767,http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-409
+165,2,410,IES GRANADILLA ->SAN ISIDRO -> EL MÉDANO-> LOS ABRIGOS,3,676767,http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-410
+166,2,411,GRANADILLA ->SAN ISIDRO -> EL MÉDANO-> MONTAÑA PELADA,3,676767,http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-411
+167,2,412,GRANADILLA -> ROTONDA TF-1 SAN ISIDRO,3,676767,http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-412
+168,2,415,EL FRAILE -> AEROPUERTO SUR -> SAN ISIDRO POR LAS GALLETAS,3,676767,http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-415
+79,2,416,GRANADILLA ->  LOS CRISTIANOS,3,676767,http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-416
+9,2,417,COSTA ADEJE -> GUÍA DE ISORA,3,676767,http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-417
+117,2,418,ESTACIÓN COSTA ADEJE-LOS CRISTIANOS-VALLE SAN LORENZO,3,676767,http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-418
+169,2,419,IES GRANADILLA -> LA ESCALONA,3,676767,http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-419
+170,2,420,COSTA ADEJE (ESTACIÓN) -> VALLE SAN LORENZO,3,676767,http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-420
+171,2,421,VALLE SAN LORENZO -> CAMELLA -> CABO BLANCO -> IES LAS GALLETAS,3,676767,http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-421
+228,2,424,LOS CRISTIANOS ->  EL DUQUE,3,676767,http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-424
+80,2,430,GRANADILLA -> SAN ISIDRO -VILLA DE ARICO-EL PORÍS,3,676767,http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-430
+172,2,447,LOS CRISTIANOS ->COSTA ADEJE ->EL CERCO ->ADEJE (LAS TORRES),3,676767,http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-447
+99,2,450,COSTA ADEJE -> SAN ISIDRO,3,676767,http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-450
+81,2,460,ICOD DE LOS VINOS -> COSTA ADEJE - POR GUÍA DE ISORA,3,676767,http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-460
+175,2,461,ACANTILADO DE LOS GIGANTES -> ARGUAYO,3,676767,http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-461
+82,2,462,GUIA DE ISORA -> A. LOS GIGANTES - POR TAMAIMO,3,676767,http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-462
+145,2,463,GRANADILLA-LOS BLANQUITOS-CHIMICHE,3,676767,http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-463
+83,2,467,COSTA ADEJE -> LAS GALLETAS ->POR LOS CRISTIANOS,3,676767,http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-467
+119,2,468,PARQUE LA REINA->LAS GALLETAS->PARQUE LA REINA,3,676767,http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-468
+84,2,470,LOS CRISTIANOS -  EL MÉDANO,3,676767,http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-470
+8,2,471,LOS CRISTIANOS - ESTACIÓN COSTA ADEJE - PLAYA PARAÍSO,3,676767,http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-471
+85,2,473,LOS CRISTIANOS-> LOS GIGANTES- POR ADEJE,3,676767,http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-473
+240,2,475,GRANADILLA -> CRUZ DE TEA -> GRANADILLA,3,000000,http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-475
+115,2,477,ESTACIÓN COSTA ADEJES->LOS GIGANTES(DIRECTO),3,676767,http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-477
+87,2,480,ARONA -> LOS CRISTIANOS-POR LA CAMELLA,3,676767,http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-480
+88,2,482,LOS CRISTIANOS->VILAFLOR- POR ARONA,3,676767,http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-482
+10,2,483,COSTA ADEJE -> EL MÉDANO- POR LOS CRISTIANOS,3,676767,http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-483
+89,2,484,GRANADILLA ->LAS CHAFIRAS,3,676767,http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-484
+176,2,486,GRANADILLA -> SAN MIGUEL -> ALDEA BLANCA -> LAS CHAFIRAS -> EL FRAILE,3,676767,http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-486
+113,2,490,GUÍA DE ISORA-VERA DE ERQUES  POR TEJINA DE GUÍA,3,676767,http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-490
+114,2,492,GUÍA DE ISORA-CHIO  POR CHIGUERGUE,3,676767,http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-492
+91,2,493,GUIA DE ISORA -> A. LOS GIGANTES-POR ALCALÁ,3,676767,http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-493
+177,2,494,GUÍA DE ISORA (C/ DEl CAMPO)-> LOS GIGANTES (POR PIEDRA HINCADA),3,676767,http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-494
+121,2,610,CIRCUITO UNIVERSITARIO DE LA LAGUNA,3,676767,http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-610
+178,2,711,SANTA CRUZ ->AEROPUERTO SUR - LOS CRISTIANOS - COSTA ADEJE (NOCTURNO),3,676767,http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-711
+151,2,901,INTERCAMBIADOR - B.SALUD (CUESTA PIEDRA) (POR MIRAFLORES  RAMÓN Y CAJAL),3,3380CA,http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-901
+126,2,902,INTERCAMBIADOR- PLAZA LOS PATOS - BARRIO NUEVO,3,3380CA,http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-902
+7,2,903,MUELLE NORTE - RAMBLAS - GARCÍA ESCÁMEZ - MORADITAS (PARTE BAJA),3,3380CA,http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-903
+125,2,904,PLAZA WEYLER-PUENTE ZURITA-Bº LA SALUD-VUELTA LOS PÁJAROS- OFRA-LAS RETAMAS,3,3380CA,http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-904
+148,2,905,MUELLE NORTE - OFRA,3,3380CA,http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-905
+31,2,906,INTERCAMBIADOR -> BARRIO LA SALUD(CUESTA PIEDRA) (POR BENITO PÉREZ ARMAS),3,3380CA,http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-906
+92,2,908,INTERCAMBIADOR -> BARRIO DE OFRA-LAS RETAMAS -> INTERCAMBIADOR,3,3380C8,http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-908
+32,2,909,INTERCAMBIADOR -> BARRIO DE LA ALEGRÍA,3,3380CA,http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-909
+93,2,910,INTERCAMBIADOR -> SAN ANDRÉS->PLAYA DE LAS TERESITAS,3,1280CB,http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-910
+94,2,911,MUELLE NORTE - RAMBLAS - CRUZ DEL SEÑOR - BARRIO DE LA SALUD - CUESTA PIEDRA,3,1280CC,http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-911
+95,2,912,INTERCAMBIADOR -> IFARA-> LOS CAMPITOS,3,1280CD,http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-912
+96,2,914,INTERCAMBIADOR -> PLAZA WEYLER-> C/EL PILAR->PLAZA DE ESPAÑA -> INTERCAMBIADOR,3,1280CE,http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-914
+97,2,916,INTERCAMBIADOR ->MARÍA JIMÉMEZ-> LOS VALLES,3,1280CF,http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-916
+98,2,917,INTERCAMBIADOR -> VALLESECO(LA QUEBRADA),3,1280D0,http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-917
+147,2,919,INTERCAMBIADOR - B. LA SALUD - CUESTA PIEDRA(POR VÍA BCO.DE SANTOS),3,1280D1,http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-919
+11,2,920,INTERCAMBIADOR - PLAZA DE ESPAÑA - LA MARINA - RAMBLAS - REYES CATÓLICOS-TRES DE MAYO- INTERCAMBIADOR,3,1280D2,http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-920
+12,2,921,INTERCAMBIADOR ->AVENIDA REYES CATÓLICOS-> INTERCAMBIADOR,3,1280D3,http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-921
+146,2,923,MUELLE NORTE -> RAMBLAS -> MORADITAS (PARTE BAJA),3,1280D4,http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-923
+44,2,933,TACO - BCO. GRANDE - CRUCE STA. MARIA - EL TABLERO,3,1280D5,http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-933
+49,2,934,CIRCULAR INTERCAMBIADOR - TACO - STA. MARIA DEL MAR - AÑAZA - INTERCAMBIADOR,3,676767,http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-934
+50,2,935,INTERCAMBIADOR SANTA CRUZ - URB. AÑAZA - ALISIOS - STA. MARIA DEL MAR,3,1280D7,http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-935
+127,2,936,< > 934 CIRCULAR INTERCAMBIADOR -AÑAZA-STA.MARÍA DEL MAR- TACO - INTERCAMBIADOR,3,008000,http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-936
+51,2,937,SANTA CRUZ(Intercambiador) ->TACO-> TINCER-> CRUCE EL SOBRADILLO,3,1280D9,http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-937
+53,2,939,TACO - EL SOBRADILLO - LLANO DEL MORO,3,1280DA,http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-939
+2,2,940,INTERCAMBIADOR - URB.ACORÁN - URB. COSTANERA,3,1280DB,http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-940
+3,2,941,INTERCAMBIADOR - URB. AÑAZA - ACORAN - BOCA CANGREJO,3,1280DC,http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-941
+5,2,944,EL TABLERO - LA GALLEGA - AVDA.HESPERIDES - TINCER - TACO,3,1280DD,http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-944
+123,2,945,SANTA CRUZ - SAN ANDRES - IGUESTE DE SAN ANDRÉS,3,1280DE,http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-945
+58,2,946,SANTA CRUZ - SAN ANDRES - TAGANANA - ALMÁCIGA,3,1280DF,http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-946
+59,2,947,INTERCAMBIADOR - SAN ANDRES - BAILADERO - CHAMORGA,3,1280E0,http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-947
+149,2,971,INTERCAMBIADOR - BARRIO SALUD - OFRA (NOCTURNA),3,1280E1,http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-971
+150,2,972,INTERCAMBIADOR - B. SALUD (CUESTA PIEDRA) (NOCTURNO),3,1280E2,http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-972
+238,2,974,SANTA CRUZ - SANTA MARÍA - AÑAZA (NOCTURNO),3,000000,http://www.titsa.com/index.php/tus-guaguas/lineas-y-horarios/linea-974
