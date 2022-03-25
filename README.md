@@ -119,9 +119,10 @@ And after doing this, here are the top results:
 |325             |INTERVAL '0 01:53:27' DAY TO SECOND|9   |
 |34              |INTERVAL '0 01:52:27' DAY TO SECOND|10  |
 
-The 330 is a "betlway", it starts and finishes on the same point, so it makes a lot of sense to have such a large estimate time.
+The 330 is a "beltway", it starts and finishes on the same point, so it makes a lot of sense to have such a large estimate time.
 
 And the 325, makes an amazing way. It only works 5 times on labour days and 3 times on weekends.
 
 ![](/imgs/325.png)
+
 More questions will be solved soon :) 
