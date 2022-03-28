@@ -13,6 +13,8 @@ The code attached is a notebook developed on top [docker stack](https://jupyter-
 
 Also there is a *docker-composer* file containing the image and the volume mounted (the password for jupyter is _my-password_)
 
+If you want to run the notebook run the command `download.sh` it will download the last zip files from Titsa webpages and unzip them in the proper directory.
+
 ## Questions
 
 ### What are the closest bus stops in a single trip?
