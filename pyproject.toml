@@ -5,8 +5,12 @@ description = ""
 authors = ["Adrian Abreu <adrianabreugonzalez@outlook.com>"]
 
 [tool.poetry.dependencies]
-python = "^3.9"
-pyspark = "3.2.1"
+python = "3.9.10"
+pandas = "1.4.1"
+dash   = "2.3.1"
+Werkzeug = "2.0.3"
+jupyter-dash = "0.4.1"
+ipykernel = "5.5.4"
 pdoc = "^10.0.4"
 
 [tool.poetry.dev-dependencies]

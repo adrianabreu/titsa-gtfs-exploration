@@ -1,8 +1,5 @@
-from pyspark.sql import DataFrame, Column
-from pyspark.sql.types import TimestampType, IntegerType
-from pyspark.sql.functions import col, lit, when, length, concat, unix_timestamp
-
-def fix_gtfs_time(df: DataFrame, cols: [str], date: str)-> DataFrame: 
+import pandas as pd
+def fix_gtfs_time(df: pd.DataFrame, cols: [str], curr_date: str)-> pd.DataFrame: 
     '''
     This method converts the problematic gtfs format (which goes from 00:00:00 to 27:00:00) into a valid date time format
     It will append the time to the current date applying the extra hours to the next day.
@@ -20,14 +17,11 @@ def fix_gtfs_time(df: DataFrame, cols: [str], date: str)-> DataFrame:
 
     ''' 
     for col_name in cols:
-        df = df\
-        .withColumn(col_name + "_day", when(col(col_name) > '23:59:59', 1).otherwise(0))\
-        .withColumn(
-            col_name, 
-            when(col(col_name) > '23:59:59', concat(col(col_name).substr(lit(1), lit(2)).cast(IntegerType()) - 24, col(col_name).substr(lit(3), length(col_name) - 2)))
-            .otherwise(col(col_name))
-                   )\
-        .withColumn(col_name, concat(lit(date + " "), col(col_name)).cast(TimestampType()))\
-        .withColumn(col_name, (unix_timestamp(col_name) + col(col_name + '_day') * 24 * 60 * 60).cast(TimestampType()))\
-        .drop(col_name + "_day")
+        df[col_name + "_day"] = 0
+        mask = df[col_name] > '23:59:59'
+        df.loc[mask,col_name + "_day"] = 1
+        df[col_name] = df[col_name].apply(lambda x: f'{curr_date} {(int(x.split(":")[0])-24):02d}{x[x.find(":"):]}' if x > '23:59:59' else f'{curr_date} {x}')
+        df[col_name] = pd.to_datetime(df[col_name]) + pd.to_timedelta(df[col_name + "_day"], unit='days')
+
+        df = df.drop(col_name + "_day", axis=1)
     return df
